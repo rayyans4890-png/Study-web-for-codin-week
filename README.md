@@ -2,6 +2,8 @@
 
 A complete, premium studying workspace: focus sessions, planning, exam preparation, statistics, gamification and an AI study tutor — in one calm, forest-green interface.
 
+link-https://studyingwebsite.netlify.app/
+
 ## What's inside
 
 | Area | Highlights |
